@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: url(https://wallpapers.com/images/hd/4k-earth-distant-view-fm2rh9t0kiuhhhre.jpg);
+    background-size: cover;
+}
